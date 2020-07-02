@@ -1,0 +1,22 @@
+* {
+    font-size: 14px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.google-img-container {
+    padding: 1em 1em 2em 1em;
+    margin-top: 12.5em;
+}
+
+.search-form{
+    border-radius: 24px;
+    border: 1px solid #dfe1e5;
+    width: 482px;
+    height: 44px;
+    margin: 0 auto;
+}
