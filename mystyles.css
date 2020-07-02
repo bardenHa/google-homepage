@@ -113,6 +113,7 @@ a:hover {
     flex: 27%;
     align-self: center;
     align-content: center;
+    justify-content: flex-end;
 }
 
 .app-img {
