@@ -20,3 +20,23 @@
     height: 44px;
     margin: 0 auto;
 }
+
+.search-form:hover {
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+    border-color: rgba(223,225,229,0);
+}
+
+.search-flex{
+    flex: 1;
+    display: flex;
+    padding: 0px 8px 0 16px;
+    height: 100%;
+}
+
+.search-img {
+    display: flex;
+    align-items: center;
+    width: 15px;
+    justify-content: center;
+    filter: invert(70%) sepia(8%) saturate(244%) hue-rotate(169deg) brightness(91%) contrast(83%);
+}
