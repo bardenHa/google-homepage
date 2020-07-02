@@ -40,3 +40,19 @@
     justify-content: center;
     filter: invert(70%) sepia(8%) saturate(244%) hue-rotate(169deg) brightness(91%) contrast(83%);
 }
+
+.search-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 34px;
+    flex: 100%;
+    align-self: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 16px;
+    color: rgba(0,0,0,.87);
+    border: none;
+    outline: none;
+}
